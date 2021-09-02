@@ -1,4 +1,25 @@
-# localstorage
+# Tela de cadastro 
+🔗 https://telacadastro.netlify.app/
+____________________________________________________
+### 📝 Descrição
 
-- Tela de cadastro com HTML, CSS e JavaScript. 
-- Realizado com o auxílio da aula do Thi Code, disponível no YouTube.
+Página de cadastro usando html, css e javascript.
+Campos de informações disponibilizados:
+- Nome ;
+- email ;
+- Telefono ;
+- Senha ;
+- Confirme sua senha .
+
+### 🎯 Objetivo
+
+Armazenar os dados do usuário cadastrado.
+
+### ✒️ Autor
+
+O projeto foi baseado em um tutorial disponibilizado no Youtube pelo Thi Code.
+
+_____________________________________________________
+
+Obrigada por conferir o meu projeto! 
+
